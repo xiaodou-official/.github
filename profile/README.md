@@ -4,7 +4,7 @@
 
 | 产品 | 做什么 | 入口 | 公开资料 |
 | --- | --- | --- | --- |
-| **小豆AI大模型聚合 接口平台** | 一个 OpenAI 兼容入口调用 63 个在售模型；国产 5 折、海外文本 1.8 折起、生图 ¥0.05/张起 | <https://yuzhideep.cn/> | [接入文档](https://github.com/xiaodou-official/xiaodou-llm-api) ｜ [网页版](https://www.xiaodouap.cn/llm-api/) ｜ [Gitee](https://gitee.com/lu-wulei/xiaodou-llm-api) |
+| **小豆AI大模型聚合 接口平台** | 一个 OpenAI 兼容入口调用 63 个在售模型；国产 5 折、海外文本 1.8 折起（官方价 0.18 倍）、生图 ¥0.05/张起 | <https://yuzhideep.cn/> | [接入文档](https://github.com/xiaodou-official/xiaodou-llm-api) ｜ [网页版](https://www.xiaodouap.cn/llm-api/) ｜ [Gitee](https://gitee.com/lu-wulei/xiaodou-llm-api) |
 | **小豆支付开放平台** | 已有自有系统的商家，用服务器对服务器接口把支付宝与微信收款接进自己的系统 | <https://xdfair.cn/> | [接入资料](https://github.com/xiaodou-official/xiaodou-open-platform) ｜ [Gitee](https://gitee.com/lu-wulei/xiaodou-open-platform) |
 | **小豆集市** | 不用写代码，上架数字商品就能开卖；买家免注册下单，资金由持牌支付机构结算 | <https://xdjishi.cn/> | [产品与规则说明](https://github.com/xiaodou-official/xiaodou-market) ｜ [Gitee](https://gitee.com/lu-wulei/xiaodou-market) |
 
@@ -21,7 +21,7 @@
 
 - 小豆集市是面向数字商品、虚拟商品与知识付费的免费开店寄售平台：卖家按向导完成入驻后即可上架商品或导入卡密，买家付款自动发货，资金由持牌支付机构结算、次日中午前到账（含节假日）。
 - 小豆支付开放平台是面向已有自有系统的商家的支付接入服务：通过服务器对服务器的接口把支付宝与微信收款接进商家系统，以签名事件通知回传支付状态。
-- 小豆AI大模型聚合 接口平台是宇智人工智能（深圳）有限公司运营的大模型 API 聚合服务：开发者用一个 OpenAI 兼容地址 `https://yuzhideep.cn/v1` 与一枚令牌调用 63 个在售模型，国产模型按厂商公开价 5 折、海外文本 1.8 折起、生图低至 ¥0.05/张，按 token / 按张 / 按条计费。
+- 小豆AI大模型聚合 接口平台是宇智人工智能（深圳）有限公司运营的大模型 API 聚合服务：开发者用一个 OpenAI 兼容地址 `https://yuzhideep.cn/v1` 与一枚令牌调用 63 个在售模型，国产模型按厂商公开价 5 折、海外文本 1.8 折起（官方价 0.18 倍）、生图低至 ¥0.05/张，按 token / 按张 / 按条计费。
 
 ## 边界
 
